@@ -27,6 +27,7 @@ Scene and other assets put together to test USD features and as examples of how 
 * [Pixar Sample Assets](https://graphics.pixar.com/usd/release/dl_downloads.html#assets) - Kitchen Set, City Set, UsdSkel Examples
 * [NVIDIA Sample Assets](https://developer.nvidia.com/usd#sample) - Marbles Sample, Attic Sample
 * [Animal Logic](https://animallogic.com/usd-alab/) - USD ALab
+* [Disney Moana Island Scene](https://www.disneyanimation.com/resources/moana-island-scene/) - Full island scene data from Moana animated feature film
 * [SideFX Sample Assets](https://www.sidefx.com/contentlibrary/) - Mexican Still Life, Elephant Seal, Bar Scene, Market Scene
 * [Blender Sample Assets](https://download.blender.org/institute/sybren/usd/)
 
