@@ -30,6 +30,8 @@ Scene and other assets put together to test USD features and as examples of how 
 * [Disney Moana Island Scene](https://www.disneyanimation.com/resources/moana-island-scene/) - Full island scene data from Moana animated feature film
 * [SideFX Sample Assets](https://www.sidefx.com/contentlibrary/) - Mexican Still Life, Elephant Seal, Bar Scene, Market Scene
 * [Blender Sample Assets](https://download.blender.org/institute/sybren/usd/)
+* [J Cube Sample Assets](https://j-cube.jp/solutions/multiverse/assets/) - USD Esper Room scene and USDZ Maneki asset
+* [Apple Sample Assets](https://developer.apple.com/augmented-reality/quick-look/) - Quick Look sample USDZ
 
 ## Learning
 ### Non-Technical Learning
