@@ -24,14 +24,15 @@ A curated list of awesome Universal Scene Description (USD) resources and projec
 
 ## Sample Assets
 Scene and other assets put together to test USD features and as examples of how to compose your assets and stages.
-* [Pixar Sample Assets](https://graphics.pixar.com/usd/release/dl_downloads.html#assets) - Kitchen Set, City Set, UsdSkel Examples
+* [Pixar Sample Assets](https://graphics.pixar.com/usd/release/dl_downloads.html#assets) - Kitchen Set, City Set, UsdSkel Examples.
 * [NVIDIA Sample Assets](https://developer.nvidia.com/usd#sample) - Marbles Sample, Attic Sample
 * [Animal Logic](https://animallogic.com/usd-alab/) - USD ALab
-* [Disney Moana Island Scene](https://www.disneyanimation.com/resources/moana-island-scene/) - Full island scene data from Moana animated feature film
-* [SideFX Sample Assets](https://www.sidefx.com/contentlibrary/) - Mexican Still Life, Elephant Seal, Bar Scene, Market Scene
+* [Disney Moana Island Scene](https://www.disneyanimation.com/resources/moana-island-scene/) - Full island scene data from Moana animated feature film.
+* [SideFX Sample Assets](https://www.sidefx.com/contentlibrary/) - Mexican Still Life, Elephant Seal, Bar Scene, Market Scene.
 * [Blender Sample Assets](https://download.blender.org/institute/sybren/usd/)
-* [J Cube Sample Assets](https://j-cube.jp/solutions/multiverse/assets/) - USD Esper Room scene and USDZ Maneki asset
-* [Apple Sample Assets](https://developer.apple.com/augmented-reality/quick-look/) - Quick Look sample USDZ
+* [J Cube Sample Assets](https://j-cube.jp/solutions/multiverse/assets/) - USD Esper Room scene and USDZ Maneki asset.
+* [Apple Sample Assets](https://developer.apple.com/augmented-reality/quick-look/) - Quick Look sample USDZ.
+* [Heri Sample Assets](https://heri.blog/category/freescenes/) - Water, debris, and chess set.
 
 ## Learning
 ### Non-Technical Learning
