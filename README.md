@@ -1,5 +1,5 @@
 # Awesome USD
-A curated list of awesome Universal Scene Description (USD) resources and projects
+A curated list of awesome Universal Scene Description (USD) resources and projects. These are hand-picked resources and projects that I find awesome. You might find more/others here: https://wiki.aswf.io/display/WGUSD/USD+Projects+and+Resources
 
 ## Contents
 - [What is USD?](#what-is-usd)
@@ -16,11 +16,13 @@ A curated list of awesome Universal Scene Description (USD) resources and projec
 * [Five Things to Know About USD](https://www.youtube.com/watch?v=vFxytzQlOEs)
 ### Technical Explanation
 * [Introduction to USD](https://graphics.pixar.com/usd/release/intro.html) - The official OpenUSD site provides a bried intro and overview.
+* [Understand USD Fundamentals](https://developer.apple.com/videos/play/wwdc2022/10129/) - An introductory overview video of USD with examples.
 * [What Makes USD Unique in NVIDIA Omniverse](https://www.youtube.com/watch?v=o2x-30-PTkw) - Short high-level overview of USD and what makes it unique.
 
-## Libraries
+## Libraries & Tools
 * [OpenUSD Github Repository](https://github.com/PixarAnimationStudios/USD) - The main repository for the Universal Scene Description (USD) project.
 * [UsdQt](https://github.com/LumaPictures/usd-qt) - Resuable Qt components for building custom USD tools from Luma.
+* [guc](https://github.com/pablode/guc) - glTF to USD converter than boasts near-lossless material translation via MaterialX
 
 ## Sample Assets
 Scene and other assets put together to test USD features and as examples of how to compose your assets and stages.
@@ -42,4 +44,3 @@ Scene and other assets put together to test USD features and as examples of how 
 ## References
 * [USD C++ API Documentation](https://graphics.pixar.com/usd/release/api/index.html) - The primary USD C++ API documentation.
 * [NVIDIA's Python API Notes](https://developer.nvidia.com/usd/tutorials) - A primer for USD Python API usage.
-## Tools
