@@ -39,6 +39,7 @@ Scene and other assets put together to test USD features and as examples of how 
 ## Learning
 ### Non-Technical Learning
 ### Technical Learning
+* [ASWF USD-WG Presentations](https://wiki.aswf.io/display/WGUSD/Presentations) - Interesting presentations from the ASWF USD Working Group
 
 
 ## References
