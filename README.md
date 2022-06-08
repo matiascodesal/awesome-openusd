@@ -3,11 +3,10 @@ A curated list of awesome Universal Scene Description (USD) resources and projec
 
 ## Contents
 - [What is USD?](#what-is-usd)
-- [Libraries](#libraries)
+- [Libraries](#libraries--tools)
 - [Sample Assets](#sample-assets)
 - [Learning](#learning)
 - [References](#references)
-- [Tools](#tools)
 
 ## What is USD?
 ### Non-Technical Explanation
