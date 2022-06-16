@@ -29,6 +29,7 @@ Scene and other assets put together to test USD features and as examples of how 
 * [NVIDIA Sample Assets](https://developer.nvidia.com/usd#sample) - Marbles Sample, Attic Sample
 * [Animal Logic](https://animallogic.com/usd-alab/) - USD ALab
 * [Disney Moana Island Scene](https://www.disneyanimation.com/resources/moana-island-scene/) - Full island scene data from Moana animated feature film.
+* [ASWF USD WG Assets](https://github.com/usd-wg/assets) - Test assets and asset guidelines from the ASWF USD Working Group.
 * [SideFX Sample Assets](https://www.sidefx.com/contentlibrary/) - Mexican Still Life, Elephant Seal, Bar Scene, Market Scene.
 * [Blender Sample Assets](https://download.blender.org/institute/sybren/usd/)
 * [J Cube Sample Assets](https://j-cube.jp/solutions/multiverse/assets/) - USD Esper Room scene and USDZ Maneki asset.
