@@ -39,9 +39,12 @@ Scene and other assets put together to test USD features and as examples of how 
 ## Learning
 ### Non-Technical Learning
 ### Technical Learning
-* [ASWF USD-WG Presentations](https://wiki.aswf.io/display/WGUSD/Presentations) - Interesting presentations from the ASWF USD Working Group
+* [NVIDIA's Python USD Tutorial](https://developer.nvidia.com/usd/tutorials) - A brief overview of working with USD using the Python API.
+* [Pixar USD Tutorials](https://graphics.pixar.com/usd/release/tut_usd_tutorials.html) - 14 modules with step-by-step instructions showing how to use the Python API and the results in USDA and usdview
+* [ASWF USD-WG Presentations](https://wiki.aswf.io/display/WGUSD/Presentations) - Interesting presentations from the ASWF USD Working Group.
 
 
 ## References
 * [USD C++ API Documentation](https://graphics.pixar.com/usd/release/api/index.html) - The primary USD C++ API documentation.
-* [NVIDIA's Python API Notes](https://developer.nvidia.com/usd/tutorials) - A primer for USD Python API usage.
+* [NVIDIA's Python API Notes](https://developer.nvidia.com/usd/apinotes) - A primer for USD Python API usage.
+* [Colin Kennedy's USD Cookbook](https://github.com/ColinKennedy/USD-Cookbook) - Basic to advanced examples of USD in C++, Python, and USDA formats.
