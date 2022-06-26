@@ -23,6 +23,14 @@ A curated list of awesome Universal Scene Description (USD) resources and projec
 * [UsdQt](https://github.com/LumaPictures/usd-qt) - Resuable Qt components for building custom USD tools from Luma.
 * [guc](https://github.com/pablode/guc) - glTF to USD converter than boasts near-lossless material translation via MaterialX
 
+### Hydra
+* [Arnold USD](https://github.com/Autodesk/arnold-usd) - Arnold Hydra render delegate and schemas.
+* [Blackbird (Cycles)](https://github.com/tangent-opensource/hdBlackbird) - Blender Cycles Hydra render delegate from Tangent Animation.
+* [LuxCoreRender](https://github.com/jbgann/LuxCoreRenderUSD) - LuxCoreRender Hydra render delegate.
+* [gatling](https://github.com/pablode/gatling) - Hydra render delegate for GPU-based path tracer.
+* [OSPRay](https://github.com/ospray/hdospray) - Hydra render delegate for Intel's OSPRay.
+* [Radeon ProRender](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderUSD) - Hydra render delegate for AMD's Radeon ProRender.
+
 ## Sample Assets
 Scene and other assets put together to test USD features and as examples of how to compose your assets and stages.
 * [Pixar Sample Assets](https://graphics.pixar.com/usd/release/dl_downloads.html#assets) - Kitchen Set, City Set, UsdSkel Examples.
