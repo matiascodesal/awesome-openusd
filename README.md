@@ -21,7 +21,21 @@ A curated list of awesome Universal Scene Description (USD) resources and projec
 ## Libraries & Tools
 * [OpenUSD Github Repository](https://github.com/PixarAnimationStudios/USD) - The main repository for the Universal Scene Description (USD) project.
 * [UsdQt](https://github.com/LumaPictures/usd-qt) - Resuable Qt components for building custom USD tools from Luma.
+* [usdtweak](https://github.com/cpichard/usdtweak) - USD editing tool. Kind of like usdview with editing capabilities.
+* [usd-idea](https://github.com/justint/usd-idea) - PyCharm plugin adding syntax highlighting, reference linking, brace matching/folding, etc.
+* [VS Code USD Language Extension](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax) - From Animal Logic, adss syntax highlighting and reference linking.
+* [usda-syntax](https://github.com/superfunc/usda-syntax) - Syntax Highlighting for USDA files in vim, emacs & sublime.
+* [Notepad++ Syntax Highlighter](https://github.com/AndrewHazelden/PIXAR-USD-Syntax-Highlighter) - USDA file syntax highlighting in Notepad++.
+* [USD Manager](https://github.com/dreamworksanimation/usdmanager) - Tool from DreamWorks Animation for browsing, managing, and editing USD files.
+* [USD Shell Extension](https://github.com/Activision/USDShellExtension) - Tool from Activision that adds Hydra Preview, thumbnails, context menus, and metadata search to Windows Explorer.
+* [UsdNodeGraph](https://github.com/1xinghuan/usdNodeGraph) - Node graph for visualizing and editing USD files. Maya and usdview embeddable.
+
+
+### Converters
 * [guc](https://github.com/pablode/guc) - glTF to USD converter than boasts near-lossless material translation via MaterialX
+* [USD from glTF](https://github.com/google/usd_from_gltf) - gltf to USD converter focused on AR Quick Look support.
+* [gltf2usd](https://github.com/kcoley/gltf2usd) - glTF to USD converter with ARKit/USDZ support.
+* [ptc2usd](https://github.com/simpassi/ptc2usd) - Converts Pixar's PTC and Houdini JSON point clouds to USD.
 
 ### Hydra
 * [Arnold USD](https://github.com/Autodesk/arnold-usd) - Arnold Hydra render delegate and schemas.
@@ -30,6 +44,9 @@ A curated list of awesome Universal Scene Description (USD) resources and projec
 * [gatling](https://github.com/pablode/gatling) - Hydra render delegate for GPU-based path tracer.
 * [OSPRay](https://github.com/ospray/hdospray) - Hydra render delegate for Intel's OSPRay.
 * [Radeon ProRender](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderUSD) - Hydra render delegate for AMD's Radeon ProRender.
+
+### FileFormat Plugins
+* [usdat](https://github.com/dreamworksanimation/dwa_usd_plugins/tree/master/pxr/usd/plugin/usdat) - A FileFormat plugin from DreamWorks Animation that enables working with templating in USD files.
 
 ## Sample Assets
 Scene and other assets put together to test USD features and as examples of how to compose your assets and stages.
@@ -56,3 +73,4 @@ Scene and other assets put together to test USD features and as examples of how 
 * [USD C++ API Documentation](https://graphics.pixar.com/usd/release/api/index.html) - The primary USD C++ API documentation.
 * [NVIDIA's Python API Notes](https://developer.nvidia.com/usd/apinotes) - A primer for USD Python API usage.
 * [Colin Kennedy's USD Cookbook](https://github.com/ColinKennedy/USD-Cookbook) - Basic to advanced examples of USD in C++, Python, and USDA formats.
+* [usd-interest Google Group](https://groups.google.com/g/usd-interest) - Search years through years of USD questions or ask one here.
