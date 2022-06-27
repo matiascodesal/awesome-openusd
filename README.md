@@ -7,6 +7,7 @@ A curated list of awesome Universal Scene Description (USD) resources and projec
 - [Sample Assets](#sample-assets)
 - [Learning](#learning)
 - [References](#references)
+- [Integrations](#integrations)
 
 ## What is USD?
 ### Non-Technical Explanation
@@ -27,7 +28,7 @@ A curated list of awesome Universal Scene Description (USD) resources and projec
 * [USD Shell Extension](https://github.com/Activision/USDShellExtension) - Tool from Activision that adds Hydra Preview, thumbnails, context menus, and metadata search to Windows Explorer.
 * [UsdNodeGraph](https://github.com/1xinghuan/usdNodeGraph) - Node graph for visualizing and editing USD files. Maya and usdview embeddable.
 * [USD Rust Bindings](https://github.com/vfx-rs/usd-bind) - Rust bindings for USD.
-* [Luma URI Resolver(https://github.com/LumaPictures/usd-uri-resolver) - Luma's example URI asset resolver.
+* [Luma URI Resolver](https://github.com/LumaPictures/usd-uri-resolver) - Luma's example URI asset resolver.
 * [S3 Resolver](https://github.com/westerndigitalcorporation/usd-s3-resolver) - An Amazon S3 and MySQL asset resolver.
 * [usdstubgen](https://github.com/chadrik/usdstubgen) - Generates python stub filles (.pyi) for USD Python API for static type analysis and code completion.
 * [Switch](https://github.com/VictorYudin/switch) - A simple built on USD and Hydra.
@@ -43,7 +44,7 @@ A curated list of awesome Universal Scene Description (USD) resources and projec
 
 ### Hydra
 * [Arnold USD](https://github.com/Autodesk/arnold-usd) - Arnold Hydra render delegate and schemas.
-* [Blackbird (Cycles)](https://github.com/tangent-opensource/hdBlackbird) - Blender Cycles Hydra render delegate from Tangent Animation.
+* [Blackbird (Blender Cycles)](https://github.com/tangent-opensource/hdBlackbird) - Blender Cycles Hydra render delegate from Tangent Animation.
 * [LuxCoreRender](https://github.com/jbgann/LuxCoreRenderUSD) - LuxCoreRender Hydra render delegate.
 * [gatling](https://github.com/pablode/gatling) - Hydra render delegate for GPU-based path tracer.
 * [OSPRay](https://github.com/ospray/hdospray) - Hydra render delegate for Intel's OSPRay.
@@ -87,3 +88,34 @@ Scene and other assets put together to test USD features and as examples of how 
 * [usd-interest Google Group](https://groups.google.com/g/usd-interest) - Search years through years of USD questions or ask one here.
 * [ASWF USD Working Group](https://github.com/AcademySoftwareFoundation/wg-usd) - Information about the ASWF USD Working Group.
 * [usd-core on Google Colab](https://github.com/philsawicki/usd-core-on-google-colab) - Example showing how you can use usd-core on Google Colab notebooks.
+
+## Integrations
+* 3ds Max - , [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/3ds-max.html)
+* Aero
+* Archicad - , [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/archicad.html)
+* [Arnold](https://docs.arnoldrenderer.com/display/A5ARP/Introduction+to+Arnold+USD) - Hydra render delagate and custom schemas. [Github](https://github.com/Autodesk/arnold-usd)
+* Blender - A couple of different import/export implementations ([usd branch](https://builder.blender.org/download/experimental/), [AMD](https://github.com/GPUOpen-LibrariesAndSDKs/BlenderUSDHydraAddon)) and the [Cycles Hydra render delegate](https://github.com/tangent-opensource/hdBlackbird).
+* Character Creator - , [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/character-creator.html)
+* CityEngine - [Import](https://doc.arcgis.com/en/cityengine/latest/help/help-import-usd.htm), [Export](https://doc.arcgis.com/en/cityengine/latest/help/help-export-usd.htm), [Omniverse Unidirectional Livesync](https://docs.omniverse.nvidia.com/con_connect/con_connect/cityengine.html)
+* Creo - , [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/creo.html)
+* Gaffer
+* [Golaem](https://golaem.com/content/doc/golaem-crowd-documentation/overview-6) - Dynamic FileFormat plugin [Github](https://github.com/Golaem/GolaemForUSD)
+* Houdini - Native integration, Import, Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/houdini.html)
+* iClone - , [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/iclone.html)
+* Katana
+* [Maya](https://makeanything.autodesk.com/usd) - Import/Export [Github](https://github.com/Autodesk/maya-usd)
+* [Millefiori](https://dl.acm.org/doi/10.1145/3329715.3338882) -  MPC's USD-based Sequence Editor
+* Multiverse
+* Nuke
+* NVIDIA Omniverse 
+* NXT
+* [OpenPype](https://github.com/antirotor/OpenPype-USD-Resolver)
+* ParaView - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/paraview.html)
+* Revit - , [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/revit.html)
+* Rhino - , [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/rhino.html)
+* SketchUp - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/sketchup.html)
+* Substance 3D Painter - , [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/substance-3d-painter.html)
+* TiltBrush
+* (Unity)[https://github.com/Unity-Technologies/usd-unity-sdk]
+* Unreal Engine - Import, Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/ue4.html)
+* Wizart
