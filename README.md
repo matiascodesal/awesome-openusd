@@ -20,16 +20,20 @@ A curated list of awesome Universal Scene Description (USD) resources and projec
 
 ## Libraries & Tools
 * [OpenUSD Github Repository](https://github.com/PixarAnimationStudios/USD) - The main repository for the Universal Scene Description (USD) project.
+* [usd-core](https://pypi.org/project/usd-core/) - usd-core Python package on pypi. Use the USD core Python API without having to build USD.
 * [UsdQt](https://github.com/LumaPictures/usd-qt) - Resuable Qt components for building custom USD tools from Luma.
 * [usdtweak](https://github.com/cpichard/usdtweak) - USD editing tool. Kind of like usdview with editing capabilities.
-* [usd-idea](https://github.com/justint/usd-idea) - PyCharm plugin adding syntax highlighting, reference linking, brace matching/folding, etc.
-* [VS Code USD Language Extension](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax) - From Animal Logic, adss syntax highlighting and reference linking.
-* [usda-syntax](https://github.com/superfunc/usda-syntax) - Syntax Highlighting for USDA files in vim, emacs & sublime.
-* [Notepad++ Syntax Highlighter](https://github.com/AndrewHazelden/PIXAR-USD-Syntax-Highlighter) - USDA file syntax highlighting in Notepad++.
 * [USD Manager](https://github.com/dreamworksanimation/usdmanager) - Tool from DreamWorks Animation for browsing, managing, and editing USD files.
 * [USD Shell Extension](https://github.com/Activision/USDShellExtension) - Tool from Activision that adds Hydra Preview, thumbnails, context menus, and metadata search to Windows Explorer.
 * [UsdNodeGraph](https://github.com/1xinghuan/usdNodeGraph) - Node graph for visualizing and editing USD files. Maya and usdview embeddable.
-
+* [USD Rust Bindings](https://github.com/vfx-rs/usd-bind) - Rust bindings for USD.
+* [Luma URI Resolver(https://github.com/LumaPictures/usd-uri-resolver) - Luma's example URI asset resolver.
+* [S3 Resolver](https://github.com/westerndigitalcorporation/usd-s3-resolver) - An Amazon S3 and MySQL asset resolver.
+* [usdstubgen](https://github.com/chadrik/usdstubgen) - Generates python stub filles (.pyi) for USD Python API for static type analysis and code completion.
+* [Switch](https://github.com/VictorYudin/switch) - A simple built on USD and Hydra.
+* [Autodesk USD WebASM Demo](https://autodesk-forks.github.io/USD/) - A demo showing USD running on the browser and a Three.js Hydra render delegate. 
+* [USDZ Web Viewer](https://www.usdz-viewer.net/) - View USDZ files in the browser. Builds on Autodesk's related work. [USDZ Loader Github ](https://github.com/ponahoum/three-usdz-loader) [Viewer Github](https://github.com/ponahoum/usdz-web-viewer)
+* [UsdSkel Util](https://github.com/meshula/usdskelutil) - Utilities for use with the UsdSkel schema
 
 ### Converters
 * [guc](https://github.com/pablode/guc) - glTF to USD converter than boasts near-lossless material translation via MaterialX
@@ -44,6 +48,12 @@ A curated list of awesome Universal Scene Description (USD) resources and projec
 * [gatling](https://github.com/pablode/gatling) - Hydra render delegate for GPU-based path tracer.
 * [OSPRay](https://github.com/ospray/hdospray) - Hydra render delegate for Intel's OSPRay.
 * [Radeon ProRender](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderUSD) - Hydra render delegate for AMD's Radeon ProRender.
+
+### Text Editor Plugins
+* [usd-idea](https://github.com/justint/usd-idea) - PyCharm plugin adding syntax highlighting, reference linking, brace matching/folding, etc.
+* [VS Code USD Language Extension](https://marketplace.visualstudio.com/items?itemName=AnimalLogic.vscode-usda-syntax) - From Animal Logic, adss syntax highlighting and reference linking.
+* [usda-syntax](https://github.com/superfunc/usda-syntax) - Syntax Highlighting for USDA files in vim, emacs & sublime.
+* [Notepad++ Syntax Highlighter](https://github.com/AndrewHazelden/PIXAR-USD-Syntax-Highlighter) - USDA file syntax highlighting in Notepad++.
 
 ### FileFormat Plugins
 * [usdat](https://github.com/dreamworksanimation/dwa_usd_plugins/tree/master/pxr/usd/plugin/usdat) - A FileFormat plugin from DreamWorks Animation that enables working with templating in USD files.
@@ -67,10 +77,13 @@ Scene and other assets put together to test USD features and as examples of how 
 * [NVIDIA's Python USD Tutorial](https://developer.nvidia.com/usd/tutorials) - A brief overview of working with USD using the Python API.
 * [Pixar USD Tutorials](https://graphics.pixar.com/usd/release/tut_usd_tutorials.html) - 14 modules with step-by-step instructions showing how to use the Python API and the results in USDA and usdview
 * [ASWF USD-WG Presentations](https://wiki.aswf.io/display/WGUSD/Presentations) - Interesting presentations from the ASWF USD Working Group.
-
+* [USD Plugin Examples](https://github.com/wetadigital/USDPluginExamples) - Simple examples to demonstrate how to compile and build USD plugins.
+* [Tiny USD program](https://github.com/meshula/tinyusd) - A really small getting-started program for USD on Windows.
 
 ## References
 * [USD C++ API Documentation](https://graphics.pixar.com/usd/release/api/index.html) - The primary USD C++ API documentation.
 * [NVIDIA's Python API Notes](https://developer.nvidia.com/usd/apinotes) - A primer for USD Python API usage.
 * [Colin Kennedy's USD Cookbook](https://github.com/ColinKennedy/USD-Cookbook) - Basic to advanced examples of USD in C++, Python, and USDA formats.
 * [usd-interest Google Group](https://groups.google.com/g/usd-interest) - Search years through years of USD questions or ask one here.
+* [ASWF USD Working Group](https://github.com/AcademySoftwareFoundation/wg-usd) - Information about the ASWF USD Working Group.
+* [usd-core on Google Colab](https://github.com/philsawicki/usd-core-on-google-colab) - Example showing how you can use usd-core on Google Colab notebooks.
