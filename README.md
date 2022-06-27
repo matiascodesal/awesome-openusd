@@ -100,14 +100,14 @@ Scene and other assets put together to test USD features and as examples of how 
 * Creo - , [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/creo.html)
 * Gaffer
 * [Golaem](https://golaem.com/content/doc/golaem-crowd-documentation/overview-6) - Dynamic FileFormat plugin [Github](https://github.com/Golaem/GolaemForUSD)
-* Houdini - Native integration, Import, Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/houdini.html)
+* Houdini - Native authoring, Import, Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/houdini.html)
 * iClone - , [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/iclone.html)
 * Katana
 * [Maya](https://makeanything.autodesk.com/usd) - Import/Export [Github](https://github.com/Autodesk/maya-usd)
 * [Millefiori](https://dl.acm.org/doi/10.1145/3329715.3338882) -  MPC's USD-based Sequence Editor
 * Multiverse
 * Nuke
-* NVIDIA Omniverse 
+* NVIDIA Omniverse - Native authoring, Import, Export, custom schemas 
 * NXT
 * [OpenPype](https://github.com/antirotor/OpenPype-USD-Resolver)
 * ParaView - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/paraview.html)
