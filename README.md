@@ -8,7 +8,7 @@
 # Awesome USD
 A curated list of awesome Universal Scene Description (USD) resources and projects. These are hand-picked resources and projects that I find awesome. You might find more or others at the [ASWF USD Working Group Wiki](https://wiki.aswf.io/display/WGUSD/USD+Projects+and+Resources).
 
-Supported with by [@maticodes](https://twitter.com/maticodes)
+Curated by [@maticodes](https://twitter.com/maticodes)
 
 ## Contents
 - [What is USD?](#what-is-usd)
