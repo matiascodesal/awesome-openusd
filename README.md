@@ -1,3 +1,4 @@
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # Awesome USD
 A curated list of awesome Universal Scene Description (USD) resources and projects. These are hand-picked resources and projects that I find awesome. You might find more/others here: https://wiki.aswf.io/display/WGUSD/USD+Projects+and+Resources
 
