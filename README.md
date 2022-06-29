@@ -1,5 +1,6 @@
-[<img src="https://github.com/matiascodesal/awesome-usd/blob/cec73086b6787915501f1df6ccc0e3e0d8a5fe2a/images/AwesomeUSD_2by1_sm.jpg">](https://github.com/matiascodesal/awesome-usd)
-
+<p align="center">
+  <a href="https://github.com/matiascodesal/awesome-usd"><img alt="awesome" src="https://github.com/matiascodesal/awesome-usd/blob/cec73086b6787915501f1df6ccc0e3e0d8a5fe2a/images/AwesomeUSD_2by1_sm.jpg" width="480" /></a>
+</p>
 <p align="center">
   <a href="https://awesome.re"><img alt="awesome" src="https://awesome.re/badge.svg" /></a>
 </p>
@@ -85,8 +86,9 @@ Scene and other assets put together to test USD features and as examples of how 
 ## Learning
 ### Non-Technical Learning
 ### Technical Learning
-* [NVIDIA's Python USD Tutorial](https://developer.nvidia.com/usd/tutorials) - A brief overview of working with USD using the Python API.
+* [NVIDIA's USD DLI Course](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-02+V1) - Free intro course completely in the browser running on JupyterLab.
 * [Pixar USD Tutorials](https://graphics.pixar.com/usd/release/tut_usd_tutorials.html) - 14 modules with step-by-step instructions showing how to use the Python API and the results in USDA and usdview
+* [NVIDIA's Python USD Tutorial](https://developer.nvidia.com/usd/tutorials) - A brief tutorial of working with USD using the Python API.
 * [ASWF USD-WG Presentations](https://wiki.aswf.io/display/WGUSD/Presentations) - Interesting presentations from the ASWF USD Working Group.
 * [USD Plugin Examples](https://github.com/wetadigital/USDPluginExamples) - Simple examples to demonstrate how to compile and build USD plugins.
 * [Tiny USD program](https://github.com/meshula/tinyusd) - A really small getting-started program for USD on Windows.
