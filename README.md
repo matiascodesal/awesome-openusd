@@ -23,7 +23,7 @@ Curated by [@maticodes](https://twitter.com/maticodes)
 * [What is USD: A Primer | Rob Stauffer | SIGGRAPH 2019](https://www.youtube.com/watch?v=Yp_TRVD3wjQ) - Longer video, but more complete explanation of stage composition.
 * [Five Things to Know About USD](https://www.youtube.com/watch?v=vFxytzQlOEs)
 ### Technical Explanation
-* [Introduction to USD](https://graphics.pixar.com/usd/release/intro.html) - The official OpenUSD site provides a bried intro and overview.
+* [Introduction to USD](https://graphics.pixar.com/usd/release/intro.html) - The official OpenUSD site provides a brief intro and overview.
 * [Understand USD Fundamentals](https://developer.apple.com/videos/play/wwdc2022/10129/) - An introductory overview video of USD with examples.
 * [What Makes USD Unique in NVIDIA Omniverse](https://www.youtube.com/watch?v=o2x-30-PTkw) - Short high-level overview of USD and what makes it unique.
 
