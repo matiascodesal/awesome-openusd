@@ -1,4 +1,4 @@
-[<img src="https://github.com/matiascodesal/awesome-usd/blob/cc2ecb44a0ace2b1ea27ca0a29da4023278e0e0f/images/AwesomeUSD_2by1.jpg">](https://github.com/matiascodesal/awesome-usd)
+[<img src="https://github.com/matiascodesal/awesome-usd/blob/cec73086b6787915501f1df6ccc0e3e0d8a5fe2a/images/AwesomeUSD_2by1_sm.jpg">](https://github.com/matiascodesal/awesome-usd)
 
 <p align="center">
   <a href="https://awesome.re"><img alt="awesome" src="https://awesome.re/badge.svg" /></a>
