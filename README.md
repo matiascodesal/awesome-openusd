@@ -1,11 +1,15 @@
+[<img src="https://github.com/matiascodesal/awesome-usd/blob/a2f9f4568fa14d7016c351b2c7fc48577cb3f498/images/AwesomeUSD_2by1.jpg">](https://github.com/matiascodesal/awesome-usd)
+
+<p align="center">
+  <a href="https://awesome.re"><img alt="awesome" src="https://awesome.re/badge.svg" /></a>
+</p>
+
 # Awesome USD
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-Insert Image
-## About
 A curated list of awesome Universal Scene Description (USD) resources and projects. These are hand-picked resources and projects that I find awesome. You might find more or others at the [ASWF USD Working Group Wiki](https://wiki.aswf.io/display/WGUSD/USD+Projects+and+Resources).
 
 Supported with ❤️ by [@maticodes](https://twitter.com/maticodes)
-# Contents
+
+## Contents
 - [What is USD?](#what-is-usd)
 - [Libraries & Tools](#libraries--tools)
 - [Sample Assets](#sample-assets)
