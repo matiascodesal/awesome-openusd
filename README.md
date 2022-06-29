@@ -41,6 +41,7 @@ A curated list of awesome Universal Scene Description (USD) resources and projec
 * [gltf2usd](https://github.com/kcoley/gltf2usd) - glTF to USD converter with ARKit/USDZ support.
 * [ptc2usd](https://github.com/simpassi/ptc2usd) - Converts Pixar's PTC and Houdini JSON point clouds to USD.
 * [Omniverse Asset Converter](https://docs.omniverse.nvidia.com/app_create/prod_extensions/ext_asset-converter.html) - Python API and microservice for converting FBX/glTF/OBJ to USD.
+* [fspy-USD](https://github.com/Vochsel/fspy-USD) - Converts fSpy camera matching file to USD.
 
 ### Hydra
 * [Arnold USD](https://github.com/Autodesk/arnold-usd) - Arnold Hydra render delegate and schemas.
@@ -89,3 +90,4 @@ Scene and other assets put together to test USD features and as examples of how 
 * [usd-interest Google Group](https://groups.google.com/g/usd-interest) - Search years through years of USD questions or ask one here.
 * [ASWF USD Working Group](https://github.com/AcademySoftwareFoundation/wg-usd) - Information about the ASWF USD Working Group.
 * [usd-core on Google Colab](https://github.com/philsawicki/usd-core-on-google-colab) - Example showing how you can use usd-core on Google Colab notebooks.
+* [USD Imaging on Google Colab](https://github.com/philsawicki/usd-imaging-on-google-colab) - Example showing how you can use USD Imaging on Google Colab notebooks.
