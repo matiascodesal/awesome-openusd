@@ -40,7 +40,7 @@ Curated by [@maticodes](https://twitter.com/maticodes)
 * [S3 Resolver](https://github.com/westerndigitalcorporation/usd-s3-resolver) - An Amazon S3 and MySQL asset resolver.
 * [usdstubgen](https://github.com/chadrik/usdstubgen) - Generates python stub filles (.pyi) for USD Python API for static type analysis and code completion.
 * [Switch](https://github.com/VictorYudin/switch) - A simple built on USD and Hydra.
-* [Autodesk USD WebASM Demo](https://autodesk-forks.github.io/USD/) - A demo showing USD running on the browser and a Three.js Hydra render delegate. 
+* [Autodesk USD WebASM](https://forums.autodesk.com/t5/engineering-hub-blog/autodesk-open-sources-web-based-usd-viewing-implementation/ba-p/11071751) - USD running on the browser and a Three.js Hydra render delegate. [Demo](https://autodesk-forks.github.io/USD/) 
 * [USDZ Web Viewer](https://www.usdz-viewer.net/) - View USDZ files in the browser. Builds on Autodesk's related work. [USDZ Loader Github ](https://github.com/ponahoum/three-usdz-loader) [Viewer Github](https://github.com/ponahoum/usdz-web-viewer)
 * [UsdSkel Util](https://github.com/meshula/usdskelutil) - Utilities for use with the UsdSkel schema
 
