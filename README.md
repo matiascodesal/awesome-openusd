@@ -75,6 +75,7 @@ Scene and other assets put together to test USD features and as examples of how 
 * [NVIDIA Sample Assets](https://developer.nvidia.com/usd#sample) - Marbles Sample, Attic Sample
 * [Animal Logic](https://animallogic.com/usd-alab/) - USD ALab
 * [Disney Moana Island Scene](https://www.disneyanimation.com/resources/moana-island-scene/) - Full island scene data from Moana animated feature film.
+* [Lowe's Open Builder](https://www.lowesopenbuilder.com/) - Over 500 furniture models from the Lowe's catalog in USDZ format.
 * [Intel Sample Assets](https://www.intel.com/content/www/us/en/developer/topic-technology/graphics-research/samples.html) - Provided under ASWF license by Intel.
 * [ASWF USD WG Assets](https://github.com/usd-wg/assets) - Test assets and asset guidelines from the ASWF USD Working Group.
 * [SideFX Sample Assets](https://www.sidefx.com/contentlibrary/) - Mexican Still Life, Elephant Seal, Bar Scene, Market Scene.
