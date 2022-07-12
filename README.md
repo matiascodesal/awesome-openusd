@@ -102,3 +102,39 @@ Scene and other assets put together to test USD features and as examples of how 
 * [ASWF USD Working Group](https://github.com/AcademySoftwareFoundation/wg-usd) - Information about the ASWF USD Working Group.
 * [usd-core on Google Colab](https://github.com/philsawicki/usd-core-on-google-colab) - Example showing how you can use usd-core on Google Colab notebooks.
 * [USD Imaging on Google Colab](https://github.com/philsawicki/usd-imaging-on-google-colab) - Example showing how you can use USD Imaging on Google Colab notebooks.
+
+## Integrations
+* 3Delight - Hydra render delegate [Gitlab](https://gitlab.com/3Delight/HydraNSI)
+* [3ds Max](https://knowledge.autodesk.com/support/3ds-max/learn-explore/caas/CloudHelp/cloudhelp/2022/ENU/3dsMax-USD/files/GUID-04F1DF51-0079-4DF8-8457-5AD12B6C0673-html.html#:~:text=USD%20Overview&text=USD%20is%20essentially%20an%20extensible,Maya%20and%203ds%20Max) - Import, Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/3ds-max.html)
+* Archicad - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/archicad.html)
+* [Arnold](https://docs.arnoldrenderer.com/display/A5ARP/Introduction+to+Arnold+USD) - Hydra render delagate and custom schemas. [Github](https://github.com/Autodesk/arnold-usd)
+* Blender - A couple of different import/export implementations ([usd branch](https://builder.blender.org/download/experimental/), [AMD](https://github.com/GPUOpen-LibrariesAndSDKs/BlenderUSDHydraAddon)) and the [Cycles Hydra render delegate](https://github.com/tangent-opensource/hdBlackbird).
+* [CAD Exchange](https://cadexchanger.com/) - Convert between various CAD formats including USD.
+* Character Creator - Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/character-creator.html)
+* Cinema 4D - Import, Export
+* CityEngine - [Import](https://doc.arcgis.com/en/cityengine/latest/help/help-import-usd.htm), [Export](https://doc.arcgis.com/en/cityengine/latest/help/help-export-usd.htm), [Omniverse Unidirectional Livesync](https://docs.omniverse.nvidia.com/con_connect/con_connect/cityengine.html)
+* Clarisse - Import, Export
+* Creo - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/creo.html)
+* Fusion 360 - Export
+* Gaffer - Authoring, Import, Export
+* [Golaem](https://golaem.com/content/doc/golaem-crowd-documentation/overview-6) - Dynamic FileFormat plugin [Github](https://github.com/Golaem/GolaemForUSD)
+* Houdini - Native authoring, Import, Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/houdini.html)
+* iClone - Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/iclone.html)* [Katana](https://learn.foundry.com/katana/dev-guide/Plugins/KatanaUSDPlugins/index.html) - Import, Export, Hydra viewport
+* Mari - Import, Export
+* [Maya](https://makeanything.autodesk.com/usd) - Import, Export [Github](https://github.com/Autodesk/maya-usd)
+* [Millefiori](https://dl.acm.org/doi/10.1145/3329715.3338882) -  MPC's USD-based Sequence Editor
+* Modo - Import, Export
+* [Multiverse](https://j-cube.jp/solutions/multiverse/) - Maya plugin offering USD interop.
+* [Nuke](https://learn.foundry.com/nuke/content/comp_environment/3d_compositing/usd.html) - Import, Hydra Viewport
+* NVIDIA Omniverse - Native authoring, Import, Export, Hydra viewport, custom schemas 
+* [NXT](https://nxt-dev.github.io/) - Native authoring
+* [OpenPype](https://openpype.io/) - [USD resolver](https://github.com/antirotor/OpenPype-USD-Resolver)
+* ParaView - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/paraview.html)
+* Revit - [third-party export plugin](https://apps.autodesk.com/RVT/en/Detail/Index?id=127804203175527993&appLang=en&os=Win64),  [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/revit.html)
+* Rhino - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/rhino.html)
+* [Shogun](https://www.vicon.com/software/shogun/) - Import, Export
+* SketchUp - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/sketchup.html)
+* Substance 3D Painter - Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/substance-3d-painter.html)
+* TiltBrush - Export
+* [Unity](https://docs.unity3d.com/Packages/com.unity.formats.usd@3.0/manual/index.html) - Import, Export [Github](https://github.com/Unity-Technologies/usd-unity-sdk)
+* [Unreal Engine](https://docs.unrealengine.com/4.26/en-US/WorkingWithContent/USDinUE4/) - Import, Export, Native reading, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/ue4.html)
