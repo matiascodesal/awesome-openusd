@@ -104,7 +104,7 @@ Scene and other assets put together to test USD features and as examples of how 
 * [USD Imaging on Google Colab](https://github.com/philsawicki/usd-imaging-on-google-colab) - Example showing how you can use USD Imaging on Google Colab notebooks.
 
 ## Integrations
-* 3Delight - Hydra render delegate [Gitlab](https://gitlab.com/3Delight/HydraNSI)
+* 3Delight - Hydra render delegate [[Gitlab](https://gitlab.com/3Delight/HydraNSI)]
 * [3ds Max](https://knowledge.autodesk.com/support/3ds-max/learn-explore/caas/CloudHelp/cloudhelp/2022/ENU/3dsMax-USD/files/GUID-04F1DF51-0079-4DF8-8457-5AD12B6C0673-html.html#:~:text=USD%20Overview&text=USD%20is%20essentially%20an%20extensible,Maya%20and%203ds%20Max) - Import, Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/3ds-max.html)
 * Archicad - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/archicad.html)
 * [Arnold](https://docs.arnoldrenderer.com/display/A5ARP/Introduction+to+Arnold+USD) - Hydra render delagate and custom schemas. [Github](https://github.com/Autodesk/arnold-usd)
@@ -117,11 +117,12 @@ Scene and other assets put together to test USD features and as examples of how 
 * Creo - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/creo.html)
 * Fusion 360 - Export
 * Gaffer - Authoring, Import, Export
-* [Golaem](https://golaem.com/content/doc/golaem-crowd-documentation/overview-6) - Dynamic FileFormat plugin [Github](https://github.com/Golaem/GolaemForUSD)
+* [Golaem](https://golaem.com/content/doc/golaem-crowd-documentation/overview-6) - Dynamic FileFormat plugin [[Github](https://github.com/Golaem/GolaemForUSD)]
 * Houdini - Native authoring, Import, Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/houdini.html)
-* iClone - Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/iclone.html)* [Katana](https://learn.foundry.com/katana/dev-guide/Plugins/KatanaUSDPlugins/index.html) - Import, Export, Hydra viewport
+* iClone - Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/iclone.html)
+* [Katana](https://learn.foundry.com/katana/dev-guide/Plugins/KatanaUSDPlugins/index.html) - Import, Export, Hydra viewport
 * Mari - Import, Export
-* [Maya](https://makeanything.autodesk.com/usd) - Import, Export [Github](https://github.com/Autodesk/maya-usd)
+* [Maya](https://makeanything.autodesk.com/usd) - Import, Export [[Github](https://github.com/Autodesk/maya-usd)]
 * [Millefiori](https://dl.acm.org/doi/10.1145/3329715.3338882) -  MPC's USD-based Sequence Editor
 * Modo - Import, Export
 * [Multiverse](https://j-cube.jp/solutions/multiverse/) - Maya plugin offering USD interop.
