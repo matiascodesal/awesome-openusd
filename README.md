@@ -16,6 +16,7 @@ Curated by [@maticodes](https://twitter.com/maticodes)
 - [Sample Assets](#sample-assets)
 - [Learning](#learning)
 - [References](#references)
+- [Integrations](#integrations)
 
 ## What is USD?
 ### Non-Technical Explanation
