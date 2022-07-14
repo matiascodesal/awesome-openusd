@@ -107,7 +107,7 @@ Scene and other assets put together to test USD features and as examples of how 
 * 3Delight - Hydra render delegate [[Gitlab](https://gitlab.com/3Delight/HydraNSI)]
 * [3ds Max](https://knowledge.autodesk.com/support/3ds-max/learn-explore/caas/CloudHelp/cloudhelp/2022/ENU/3dsMax-USD/files/GUID-04F1DF51-0079-4DF8-8457-5AD12B6C0673-html.html#:~:text=USD%20Overview&text=USD%20is%20essentially%20an%20extensible,Maya%20and%203ds%20Max) - Import, Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/3ds-max.html)
 * Archicad - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/archicad.html)
-* [Arnold](https://docs.arnoldrenderer.com/display/A5ARP/Introduction+to+Arnold+USD) - Hydra render delagate and custom schemas. [Github](https://github.com/Autodesk/arnold-usd)
+* [Arnold](https://docs.arnoldrenderer.com/display/A5ARP/Introduction+to+Arnold+USD) - Hydra render delagate and custom schemas. [[Github](https://github.com/Autodesk/arnold-usd)]
 * Blender - A couple of different import/export implementations ([usd branch](https://builder.blender.org/download/experimental/), [AMD](https://github.com/GPUOpen-LibrariesAndSDKs/BlenderUSDHydraAddon)) and the [Cycles Hydra render delegate](https://github.com/tangent-opensource/hdBlackbird).
 * [CAD Exchange](https://cadexchanger.com/) - Convert between various CAD formats including USD.
 * Character Creator - Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/character-creator.html)
@@ -137,5 +137,5 @@ Scene and other assets put together to test USD features and as examples of how 
 * SketchUp - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/sketchup.html)
 * Substance 3D Painter - Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/substance-3d-painter.html)
 * TiltBrush - Export
-* [Unity](https://docs.unity3d.com/Packages/com.unity.formats.usd@3.0/manual/index.html) - Import, Export [Github](https://github.com/Unity-Technologies/usd-unity-sdk)
+* [Unity](https://docs.unity3d.com/Packages/com.unity.formats.usd@3.0/manual/index.html) - Import, Export [[Github](https://github.com/Unity-Technologies/usd-unity-sdk)]
 * [Unreal Engine](https://docs.unrealengine.com/4.26/en-US/WorkingWithContent/USDinUE4/) - Import, Export, Native reading, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/ue4.html)
