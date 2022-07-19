@@ -107,6 +107,7 @@ Scene and other assets put together to test USD features and as examples of how 
 ## Integrations
 * 3Delight - Hydra render delegate [[Gitlab](https://gitlab.com/3Delight/HydraNSI)]
 * [3ds Max](https://knowledge.autodesk.com/support/3ds-max/learn-explore/caas/CloudHelp/cloudhelp/2022/ENU/3dsMax-USD/files/GUID-04F1DF51-0079-4DF8-8457-5AD12B6C0673-html.html#:~:text=USD%20Overview&text=USD%20is%20essentially%20an%20extensible,Maya%20and%203ds%20Max) - Import, Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/3ds-max.html)
+* [AnimVR](https://nvrmind.io/features) - Import
 * Archicad - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/archicad.html)
 * [Arnold](https://docs.arnoldrenderer.com/display/A5ARP/Introduction+to+Arnold+USD) - Hydra render delagate and custom schemas. [[Github](https://github.com/Autodesk/arnold-usd)]
 * Blender - A couple of different import/export implementations ([usd branch](https://builder.blender.org/download/experimental/), [AMD](https://github.com/GPUOpen-LibrariesAndSDKs/BlenderUSDHydraAddon)) and the [Cycles Hydra render delegate](https://github.com/tangent-opensource/hdBlackbird).
@@ -125,6 +126,7 @@ Scene and other assets put together to test USD features and as examples of how 
 * Mari - Import, Export
 * [Maya](https://makeanything.autodesk.com/usd) - Import, Export [[Github](https://github.com/Autodesk/maya-usd)]
 * [Millefiori](https://dl.acm.org/doi/10.1145/3329715.3338882) -  MPC's USD-based Sequence Editor
+* [Mineways](https://www.realtimerendering.com/erich/minecraft/public/mineways/) - Export
 * Modo - Import, Export
 * [Multiverse](https://j-cube.jp/solutions/multiverse/) - Maya plugin offering USD interop.
 * [Nuke](https://learn.foundry.com/nuke/content/comp_environment/3d_compositing/usd.html) - Import, Hydra Viewport
@@ -132,6 +134,9 @@ Scene and other assets put together to test USD features and as examples of how 
 * [NXT](https://nxt-dev.github.io/) - Native authoring
 * [OpenPype](https://openpype.io/) - [USD resolver](https://github.com/antirotor/OpenPype-USD-Resolver)
 * ParaView - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/paraview.html)
+* [PlantCalatog](https://info.e-onsoftware.com/plantcatalog/) - Export, via Omniverse
+* [PlantFactory](https://info.e-onsoftware.com/plantfactory/overview) - Export, via Omniverse
+* Radeon ProRender - Hydra render delagate [[Github](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderUSD)]
 * Revit - [third-party export plugin](https://apps.autodesk.com/RVT/en/Detail/Index?id=127804203175527993&appLang=en&os=Win64),  [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/revit.html)
 * Rhino - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/rhino.html)
 * [Shogun](https://www.vicon.com/software/shogun/) - Import, Export
@@ -141,3 +146,6 @@ Scene and other assets put together to test USD features and as examples of how 
 * TiltBrush - Export
 * [Unity](https://docs.unity3d.com/Packages/com.unity.formats.usd@3.0/manual/index.html) - Import, Export [[Github](https://github.com/Unity-Technologies/usd-unity-sdk)]
 * [Unreal Engine](https://docs.unrealengine.com/4.26/en-US/WorkingWithContent/USDinUE4/) - Import, Export, Native reading, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/ue4.html)
+* [VUE](https://info.e-onsoftware.com/vue/overview) - Export, via Omniverse
+* [V-Ray](https://www.chaos.com/blog/getting-started-with-usd-and-hydra-in-v-ray) - Hydra render delegate and USD procedural
+* ZBrush - Import, Export
