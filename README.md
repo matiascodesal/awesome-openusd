@@ -136,7 +136,7 @@ Scene and other assets put together to test USD features and as examples of how 
 * ParaView - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/paraview.html)
 * [PlantCalatog](https://info.e-onsoftware.com/plantcatalog/) - Export, via Omniverse
 * [PlantFactory](https://info.e-onsoftware.com/plantfactory/overview) - Export, via Omniverse
-* Radeon ProRender - Hydra render delagate [[Github](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderUSD)]
+* Radeon ProRender - Hydra render delegate [[Github](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderUSD)]
 * Revit - [third-party export plugin](https://apps.autodesk.com/RVT/en/Detail/Index?id=127804203175527993&appLang=en&os=Win64),  [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/revit.html)
 * Rhino - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/rhino.html)
 * [Shogun](https://www.vicon.com/software/shogun/) - Import, Export
