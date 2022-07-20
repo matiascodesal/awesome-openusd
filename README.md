@@ -146,6 +146,7 @@ Scene and other assets put together to test USD features and as examples of how 
 * SketchUp - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/sketchup.html)
 * Substance 3D Painter - Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/substance-3d-painter.html)
 * Substance Designer - [SBSAR FileFormat Plugin via Omniverse](https://docs.omniverse.nvidia.com/prod_extensions/prod_extensions/ext_sbsar-support.html)
+* [SynthEyes](https://www.ssontech.com/) - Export
 * TiltBrush - Export
 * [Unity](https://docs.unity3d.com/Packages/com.unity.formats.usd@3.0/manual/index.html) - Import, Export [[Github](https://github.com/Unity-Technologies/usd-unity-sdk)]
 * [Unreal Engine](https://docs.unrealengine.com/4.26/en-US/WorkingWithContent/USDinUE4/) - Import, Export, Native reading, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/ue4.html)
