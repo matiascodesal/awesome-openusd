@@ -120,6 +120,7 @@ Scene and other assets put together to test USD features and as examples of how 
 * Creo - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/creo.html)
 * Fusion 360 - Export
 * Gaffer - Authoring, Import, Export
+* Guerilla Render- Import
 * [Golaem](https://golaem.com/content/doc/golaem-crowd-documentation/overview-6) - Dynamic FileFormat plugin [[Github](https://github.com/Golaem/GolaemForUSD)]
 * Houdini - Native authoring, Import, Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/houdini.html)
 * iClone - Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/iclone.html)
