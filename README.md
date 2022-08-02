@@ -143,6 +143,7 @@ Scene and other assets put together to test USD features and as examples of how 
 * Reality Composer - Import, Export USDZ
 * Revit - [third-party export plugin](https://apps.autodesk.com/RVT/en/Detail/Index?id=127804203175527993&appLang=en&os=Win64),  [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/revit.html)
 * Rhino - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/rhino.html)
+* Shapr3D - USDZ Export
 * [Shogun](https://www.vicon.com/software/shogun/) - Import, Export
 * SketchUp - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/sketchup.html)
 * Substance 3D Painter - Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/substance-3d-painter.html)
