@@ -85,9 +85,11 @@ Scene and other assets put together to test USD features and as examples of how 
 * [J Cube Sample Assets](https://j-cube.jp/solutions/multiverse/assets/) - USD Esper Room scene and USDZ Maneki asset.
 * [Apple Sample Assets](https://developer.apple.com/augmented-reality/quick-look/) - Quick Look sample USDZ.
 * [Heri Sample Assets](https://heri.blog/category/freescenes/) - Water, debris, and chess set.
+* [McUsd Sample Assets](https://github.com/erich666/McUsd) - Simple geometry with a variety of UsdPreviewSurface materials for material and light testing.
 
 ## Learning
 ### Non-Technical Learning
+* [Book of USD](https://remedy-entertainment.github.io/USDBook/) - A less technical introduction and overview of USD and its terminology by Remedy Entertainment.
 ### Technical Learning
 * [NVIDIA's USD DLI Course](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-02+V1) - Free intro course completely in the browser running on JupyterLab.
 * [Pixar USD Tutorials](https://graphics.pixar.com/usd/release/tut_usd_tutorials.html) - 14 modules with step-by-step instructions showing how to use the Python API and the results in USDA and usdview
@@ -95,6 +97,7 @@ Scene and other assets put together to test USD features and as examples of how 
 * [ASWF USD-WG Presentations](https://wiki.aswf.io/display/WGUSD/Presentations) - Interesting presentations from the ASWF USD Working Group.
 * [USD Plugin Examples](https://github.com/wetadigital/USDPluginExamples) - Simple examples to demonstrate how to compile and build USD plugins.
 * [Tiny USD program](https://github.com/meshula/tinyusd) - A really small getting-started program for USD on Windows.
+* [USD at Remedy Entertainment](https://www.youtube.com/watch?v=FI2pyzTOvaQ) - Presentation about how Remedy Entertainment uses USD for gamedev.
 
 ## References
 * [USD C++ API Documentation](https://graphics.pixar.com/usd/release/api/index.html) - The primary USD C++ API documentation.
