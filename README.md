@@ -5,32 +5,35 @@
   <a href="https://awesome.re"><img alt="awesome" src="https://awesome.re/badge.svg" /></a>
 </p>
 
-# Awesome USD
-A curated list of awesome Universal Scene Description (USD) resources and projects. These are hand-picked resources and projects that I find awesome. You might find more or others at the [ASWF USD Working Group Wiki](https://wiki.aswf.io/display/WGUSD/USD+Projects+and+Resources).
+# Awesome OpenUSD
+A curated list of awesome Universal Scene Description (OpenUSD) resources and projects. These are hand-picked resources and projects that I find awesome. You might find more or others at the [ASWF USD Working Group Wiki](https://wiki.aswf.io/display/WGUSD/USD+Projects+and+Resources).
 
 Curated by [@maticodes](https://twitter.com/maticodes)
 
 ## Contents
-- [What is USD?](#what-is-usd)
+- [What is OpenUSD?](#what-is-openusd)
 - [Libraries & Tools](#libraries--tools)
 - [Sample Assets](#sample-assets)
 - [Learning](#learning)
 - [References](#references)
 - [Integrations](#integrations)
 
-## What is USD?
+## What is OpenUSD?
 ### Non-Technical Explanation
 * [A USD primer for ARTISTS](https://www.youtube.com/watch?v=SaBXE4yQetk) - Video explanation focused for artists with some overview of Maya workflows. Short and sweet.
 * [What is USD: A Primer | Rob Stauffer | SIGGRAPH 2019](https://www.youtube.com/watch?v=Yp_TRVD3wjQ) - Longer video, but more complete explanation of stage composition.
 * [Five Things to Know About USD](https://www.youtube.com/watch?v=vFxytzQlOEs)
+* [What is USD? (The basics of Pixar’s 3D file format in 15 minutes)](https://www.youtube.com/watch?v=JixC53cQn5U) - Artist-friendly video introduction to OpenUSD.
 ### Technical Explanation
 * [Introduction to USD](https://graphics.pixar.com/usd/release/intro.html) - The official OpenUSD site provides a brief intro and overview.
 * [Understand USD Fundamentals](https://developer.apple.com/videos/play/wwdc2022/10129/) - An introductory overview video of USD with examples.
 * [What Makes USD Unique in NVIDIA Omniverse](https://www.youtube.com/watch?v=o2x-30-PTkw) - Short high-level overview of USD and what makes it unique.
+* [NVIDIA USD Developer YouTube Series](https://www.youtube.com/playlist?list=PL3jK4xNnlCVcUP08kj6eOzvCA82U_JKiy) - Intro video series covering the top unique features of OpenUSD.
 
 ## Libraries & Tools
 * [OpenUSD Github Repository](https://github.com/PixarAnimationStudios/USD) - The main repository for the Universal Scene Description (USD) project.
 * [usd-core](https://pypi.org/project/usd-core/) - usd-core Python package on pypi. Use the USD core Python API without having to build USD.
+* [USD Notice Framework](https://disneyanimation.com/open-source/usd-notice-framework/) - A USD plugin from WDAS with a set of software APIs for managing the flow of notifications that are emitted when authoring USD stages.
 * [UsdQt](https://github.com/LumaPictures/usd-qt) - Resuable Qt components for building custom USD tools from Luma.
 * [usdtweak](https://github.com/cpichard/usdtweak) - USD editing tool. Kind of like usdview with editing capabilities.
 * [USD Manager](https://github.com/dreamworksanimation/usdmanager) - Tool from DreamWorks Animation for browsing, managing, and editing USD files.
@@ -96,8 +99,11 @@ Scene and other assets put together to test USD features and as examples of how 
 * [NVIDIA's Python USD Tutorial](https://developer.nvidia.com/usd/tutorials) - A brief tutorial of working with USD using the Python API.
 * [ASWF USD-WG Presentations](https://wiki.aswf.io/display/WGUSD/Presentations) - Interesting presentations from the ASWF USD Working Group.
 * [USD Plugin Examples](https://github.com/wetadigital/USDPluginExamples) - Simple examples to demonstrate how to compile and build USD plugins.
+* [USD Plugin Samples](https://github.com/NVIDIA-Omniverse/usd-plugin-samples) - USD schema extension samples, build tools, and sample kit extensions that use those schema extensions from NVIDIA.
 * [Tiny USD program](https://github.com/meshula/tinyusd) - A really small getting-started program for USD on Windows.
 * [USD at Remedy Entertainment](https://www.youtube.com/watch?v=FI2pyzTOvaQ) - Presentation about how Remedy Entertainment uses USD for gamedev.
+* [Essentials of USD in Omniverse](https://courses.nvidia.com/courses/course-v1:DLI+S-OV-05+V1/) - Fully web-hosted course to learn USD for developers in Omniverse.
+* [USD Survival Guide](https://lucascheller.github.io/VFX-UsdSurvivalGuide/introduction/overview.html) - An onboarding guide for software engineers and pipeline TDs with practical and production examples.
 
 ## References
 * [USD C++ API Documentation](https://graphics.pixar.com/usd/release/api/index.html) - The primary USD C++ API documentation.
@@ -109,52 +115,4 @@ Scene and other assets put together to test USD features and as examples of how 
 * [USD Imaging on Google Colab](https://github.com/philsawicki/usd-imaging-on-google-colab) - Example showing how you can use USD Imaging on Google Colab notebooks.
 
 ## Integrations
-* 3Delight - Hydra render delegate [[Gitlab](https://gitlab.com/3Delight/HydraNSI)]
-* [3ds Max](https://knowledge.autodesk.com/support/3ds-max/learn-explore/caas/CloudHelp/cloudhelp/2022/ENU/3dsMax-USD/files/GUID-04F1DF51-0079-4DF8-8457-5AD12B6C0673-html.html#:~:text=USD%20Overview&text=USD%20is%20essentially%20an%20extensible,Maya%20and%203ds%20Max) - Import, Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/3ds-max.html)
-* [AnimVR](https://nvrmind.io/features) - Import
-* Archicad - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/archicad.html)
-* [Arnold](https://docs.arnoldrenderer.com/display/A5ARP/Introduction+to+Arnold+USD) - Hydra render delagate and custom schemas. [[Github](https://github.com/Autodesk/arnold-usd)]
-* Blender - A couple of different import/export implementations ([usd branch](https://builder.blender.org/download/experimental/), [AMD](https://github.com/GPUOpen-LibrariesAndSDKs/BlenderUSDHydraAddon)) and the [Cycles Hydra render delegate](https://github.com/tangent-opensource/hdBlackbird).
-* [CAD Exchange](https://cadexchanger.com/) - Convert between various CAD formats including USD.
-* Character Creator - Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/character-creator.html)
-* Cinema 4D - Import, Export
-* CityEngine - [Import](https://doc.arcgis.com/en/cityengine/latest/help/help-import-usd.htm), [Export](https://doc.arcgis.com/en/cityengine/latest/help/help-export-usd.htm), [Omniverse Unidirectional Livesync](https://docs.omniverse.nvidia.com/con_connect/con_connect/cityengine.html)
-* Clarisse - Import, Export
-* Creo - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/creo.html)
-* Fusion 360 - Export
-* Gaffer - Authoring, Import, Export
-* Guerilla Render- Import
-* [Golaem](https://golaem.com/content/doc/golaem-crowd-documentation/overview-6) - Dynamic FileFormat plugin [[Github](https://github.com/Golaem/GolaemForUSD)]
-* Houdini - Native authoring, Import, Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/houdini.html)
-* iClone - Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/iclone.html)
-* [Katana](https://learn.foundry.com/katana/dev-guide/Plugins/KatanaUSDPlugins/index.html) - Import, Export, Hydra viewport
-* Mari - Import, Export
-* [Maya](https://makeanything.autodesk.com/usd) - Import, Export [[Github](https://github.com/Autodesk/maya-usd)]
-* [Millefiori](https://dl.acm.org/doi/10.1145/3329715.3338882) -  MPC's USD-based Sequence Editor
-* [Mineways](https://www.realtimerendering.com/erich/minecraft/public/mineways/) - Export
-* Modo - Import, Export
-* [Multiverse](https://j-cube.jp/solutions/multiverse/) - Maya plugin offering USD interop.
-* [Nuke](https://learn.foundry.com/nuke/content/comp_environment/3d_compositing/usd.html) - Import, Hydra Viewport
-* NVIDIA Omniverse - Native authoring, Import, Export, Hydra viewport, custom schemas 
-* [NXT](https://nxt-dev.github.io/) - Native authoring
-* [OpenPype](https://openpype.io/) - [USD resolver](https://github.com/antirotor/OpenPype-USD-Resolver)
-* ParaView - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/paraview.html)
-* [PlantCalatog](https://info.e-onsoftware.com/plantcatalog/) - Export, via Omniverse
-* [PlantFactory](https://info.e-onsoftware.com/plantfactory/overview) - Export, via Omniverse
-* Quick Look - Apple's USDZ AR Viewer
-* Radeon ProRender - Hydra render delegate [[Github](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderUSD)]
-* Reality Composer - Import, Export USDZ
-* Revit - [third-party export plugin](https://apps.autodesk.com/RVT/en/Detail/Index?id=127804203175527993&appLang=en&os=Win64),  [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/revit.html)
-* Rhino - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/rhino.html)
-* Shapr3D - USDZ Export
-* [Shogun](https://www.vicon.com/software/shogun/) - Import, Export
-* SketchUp - [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/sketchup.html)
-* Substance 3D Painter - Export, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/substance-3d-painter.html)
-* Substance Designer - [SBSAR FileFormat Plugin via Omniverse](https://docs.omniverse.nvidia.com/prod_extensions/prod_extensions/ext_sbsar-support.html)
-* [SynthEyes](https://www.ssontech.com/) - Export
-* TiltBrush - Export
-* [Unity](https://docs.unity3d.com/Packages/com.unity.formats.usd@3.0/manual/index.html) - Import, Export [[Github](https://github.com/Unity-Technologies/usd-unity-sdk)]
-* [Unreal Engine](https://docs.unrealengine.com/4.26/en-US/WorkingWithContent/USDinUE4/) - Import, Export, Native reading, [via Omniverse](https://docs.omniverse.nvidia.com/con_connect/con_connect/ue4.html)
-* [VUE](https://info.e-onsoftware.com/vue/overview) - Export, via Omniverse
-* [V-Ray](https://www.chaos.com/blog/getting-started-with-usd-and-hydra-in-v-ray) - Hydra render delegate and USD procedural
-* ZBrush - Import, Export
+You can now find the latest [products using OpenUSD on openusd.org](https://openusd.org/release/usd_products.html).
