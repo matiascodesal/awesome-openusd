@@ -67,7 +67,7 @@ Curated by [@maticodes](https://twitter.com/maticodes)
 
 ### Hydra
 
-- [3Delight|NSI](https://gitlab.com/3Delight/HydraNSI) – Hydra delegate for 3Delight resp. any renderer implementing the NSI API.
+- [3Delight|NSI](https://gitlab.com/3Delight/HydraNSI) – Hydra render delegate for 3Delight resp. any renderer implementing the NSI API.
 - [Arnold USD](https://github.com/Autodesk/arnold-usd) – Arnold Hydra render delegate and schemas.
 - [Blackbird (Blender Cycles)](https://github.com/tangent-opensource/hdBlackbird) – Blender Cycles Hydra render delegate from Tangent Animation.
 - [LuxCoreRender](https://github.com/jbgann/LuxCoreRenderUSD) – LuxCoreRender Hydra render delegate.
