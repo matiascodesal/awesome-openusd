@@ -62,7 +62,7 @@ Curated by [@maticodes](https://twitter.com/maticodes)
 - [USD from glTF](https://github.com/google/usd_from_gltf) – gltf to USD converter focused on AR Quick Look support.
 - [gltf2usd](https://github.com/kcoley/gltf2usd) – glTF to USD converter with ARKit/USDZ support.
 - [ptc2usd](https://github.com/simpassi/ptc2usd) – Converts Pixar's PTC and Houdini JSON point clouds to USD.
-- [Omniverse Asset Converter](https://docs.omniverse.nvidia.com/app_create/prod_extensions/ext_asset-converter.html) – Python API and microservice for converting FBX/glTF/OBJ to USD.
+- [Omniverse Asset Converter](https://docs.omniverse.nvidia.com/extensions/latest/ext_asset-converter.html) – Python API and microservice for converting FBX/glTF/OBJ to USD.
 - [fspy-USD](https://github.com/Vochsel/fspy-USD) – Converts fSpy camera matching file to USD.
 
 ### Hydra
