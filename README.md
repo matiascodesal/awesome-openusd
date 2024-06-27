@@ -71,6 +71,7 @@ Curated by [@maticodes](https://twitter.com/maticodes)
 - [Arnold USD](https://github.com/Autodesk/arnold-usd) – Arnold Hydra render delegate and schemas.
 - [Blackbird (Blender Cycles)](https://github.com/tangent-opensource/hdBlackbird) – Blender Cycles Hydra render delegate from Tangent Animation.
 - [LuxCoreRender](https://github.com/jbgann/LuxCoreRenderUSD) – LuxCoreRender Hydra render delegate.
+- [Moonray](https://github.com/dreamworksanimation/hdMoonray) - Hydra render delegate for Dreamworks Animation's Moonray.
 - [gatling](https://github.com/pablode/gatling) – Hydra render delegate for GPU-based path tracer.
 - [OSPRay](https://github.com/ospray/hdospray) – Hydra render delegate for Intel's OSPRay.
 - [Radeon ProRender](https://github.com/GPUOpen-LibrariesAndSDKs/RadeonProRenderUSD) – Hydra render delegate for AMD's Radeon ProRender.
