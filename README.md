@@ -55,6 +55,7 @@ Curated by [@maticodes](https://twitter.com/maticodes)
 - [USDZ Web Viewer](https://www.usdz-viewer.net/) – View USDZ files in the browser. Builds on Autodesk's related work. [USDZ Loader Github ](https://github.com/ponahoum/three-usdz-loader) [Viewer Github](https://github.com/ponahoum/usdz-web-viewer)
 - [UsdSkel Util](https://github.com/meshula/usdskelutil) – Utilities for use with the UsdSkel schema
 - [Apple Schemas](https://developer.apple.com/documentation/arkit/usdz_schemas_for_ar) – USDZ schemas for AR (e.g. Anchoring, Behaviors, Text)
+- [tinyusdz](https://github.com/lighttransport/tinyusdz) – Tiny, dependency-free USDZ/USDA/USDC library written in C++14
 
 ### Converters
 
