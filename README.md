@@ -104,7 +104,6 @@ Scene and other assets put together to test USD features and as examples of how 
 - [Blender Sample Assets](https://download.blender.org/institute/sybren/usd/)
 - [J Cube Sample Assets](https://j-cube.jp/solutions/multiverse/assets/) – USD Esper Room scene and USDZ Maneki asset.
 - [Apple Sample Assets](https://developer.apple.com/augmented-reality/quick-look/) – Quick Look sample USDZ.
-- [Heri Sample Assets](https://heri.blog/category/freescenes/) – Water, debris, and chess set.
 - [McUsd Sample Assets](https://github.com/erich666/McUsd) – Simple geometry with a variety of UsdPreviewSurface materials for material and light testing.
 
 ## Learning
