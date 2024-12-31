@@ -124,6 +124,8 @@ Scene and other assets put together to test USD features and as examples of how 
 - [USD at Remedy Entertainment](https://www.youtube.com/watch?v=FI2pyzTOvaQ) – Presentation about how Remedy Entertainment uses USD for gamedev.
 - [Essentials of USD in Omniverse](https://courses.nvidia.com/courses/course-v1:DLI+S-OV-05+V1/) – Fully web-hosted course to learn USD for developers in Omniverse.
 - [USD Survival Guide](https://lucascheller.github.io/VFX-UsdSurvivalGuide/introduction/overview.html) – An onboarding guide for software engineers and pipeline TDs with practical and production examples.
+- [OmniverseUSD Guide](https://omniverseusd.github.io/) - A from-the-ground-up introduction to OpenUSD through Omniverse Python runnable examples.
+
 
 ## References
 
