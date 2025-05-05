@@ -9,8 +9,6 @@
 
 A curated list of awesome Universal Scene Description (OpenUSD) resources and projects. These are hand-picked resources and projects that I find awesome. You might find more or others at the [ASWF USD Working Group Wiki](https://wiki.aswf.io/display/WGUSD/USD+Projects+and+Resources).
 
-Curated by [@maticodes](https://twitter.com/maticodes)
-
 ## Contents
 
 - [What is OpenUSD?](#what-is-openusd)
@@ -28,6 +26,7 @@ Curated by [@maticodes](https://twitter.com/maticodes)
 - [What is USD: A Primer | Rob Stauffer | SIGGRAPH 2019](https://www.youtube.com/watch?v=Yp_TRVD3wjQ) – Longer video, but more complete explanation of stage composition.
 - [Five Things to Know About USD](https://www.youtube.com/watch?v=vFxytzQlOEs)
 - [What is USD? (The basics of Pixar’s 3D file format in 15 minutes)](https://www.youtube.com/watch?v=JixC53cQn5U) – Artist-friendly video introduction to OpenUSD.
+- [Why You Should Use OpenUSD](https://www.youtube.com/watch?v=riqp4_eZa2Y) - More than just What OpenUSD is, why does it matter?
 
 ### Technical Explanation
 
@@ -110,11 +109,13 @@ Scene and other assets put together to test USD features and as examples of how 
 
 ### Non-Technical Learning
 
+- [Learn OpenUSD: Foundations](https://www.nvidia.com/en-us/learn/learning-path/openusd/) – A learning path teaching the foundational concepts of OpenUSD with lectures and guided exercises.
+- [Learn OpenUSD Video](https://www.youtube.com/playlist?list=PL3jK4xNnlCVcae9UrxpVWyFw63QCFA6JA) - A playlist of short videos teaching the foundation concepts from Learn OpenUSD.
 - [Book of USD](https://remedy-entertainment.github.io/USDBook/) – A less technical introduction and overview of USD and its terminology by Remedy Entertainment.
 
 ### Technical Learning
 
-- [NVIDIA's USD DLI Course](https://courses.nvidia.com/courses/course-v1:DLI+S-FX-02+V1) – Free intro course completely in the browser running on JupyterLab.
+- [Learn OpenUSD](https://www.nvidia.com/en-us/learn/learning-path/openusd/) – A learning path teaching the foundational and applied concepts of USD with lectures and guided exercises.
 - [Pixar USD Tutorials](https://graphics.pixar.com/usd/release/tut_usd_tutorials.html) – 14 modules with step-by-step instructions showing how to use the Python API and the results in USDA and usdview
 - [NVIDIA's Python USD Tutorial](https://developer.nvidia.com/usd/tutorials) – A brief tutorial of working with USD using the Python API.
 - [ASWF USD-WG Presentations](https://wiki.aswf.io/display/WGUSD/Presentations) – Interesting presentations from the ASWF USD Working Group.
@@ -122,9 +123,10 @@ Scene and other assets put together to test USD features and as examples of how 
 - [USD Plugin Samples](https://github.com/NVIDIA-Omniverse/usd-plugin-samples) – USD schema extension samples, build tools, and sample kit extensions that use those schema extensions from NVIDIA.
 - [Tiny USD program](https://github.com/meshula/tinyusd) – A really small getting-started program for USD on Windows.
 - [USD at Remedy Entertainment](https://www.youtube.com/watch?v=FI2pyzTOvaQ) – Presentation about how Remedy Entertainment uses USD for gamedev.
-- [Essentials of USD in Omniverse](https://courses.nvidia.com/courses/course-v1:DLI+S-OV-05+V1/) – Fully web-hosted course to learn USD for developers in Omniverse.
 - [USD Survival Guide](https://lucascheller.github.io/VFX-UsdSurvivalGuide/introduction/overview.html) – An onboarding guide for software engineers and pipeline TDs with practical and production examples.
 - [OmniverseUSD Guide](https://omniverseusd.github.io/) - A from-the-ground-up introduction to OpenUSD through Omniverse Python runnable examples.
+- [USD in Production](https://dl.acm.org/doi/10.1145/3587423.3595531) - SIGGRAPH 2023 Course
+- [Confusing Acronym Blog](https://confusing-acronym.com) - A blog about OpenUSD with a lot of technical explanations.
 
 
 ## References
