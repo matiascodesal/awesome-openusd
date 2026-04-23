@@ -59,6 +59,7 @@ A curated list of awesome Universal Scene Description (OpenUSD) resources and pr
 - [tinyusdz](https://github.com/lighttransport/tinyusdz) – Tiny, dependency-free USDZ/USDA/USDC library written in C++14
 - [Native Rust USD library](https://github.com/mxpv/openusd) - An implementation of Universal Scene Description written in native Rust.
 - [TinkerUsd](https://github.com/hamedsabri/TinkerUsd) -  An experimental USD Editor written in C++/Qt for R&D purposes.
+- [BowerBot](https://github.com/binary-core-llc/bowerbot) – Open-source AI agent that assembles production-correct OpenUSD scenes from natural language. ASWF-compliant hierarchy, MaterialX materials, lighting, and validation. [Demo](https://youtu.be/dXYdiJi2lXU)
 
 ### Converters & File Format Plugins
 
