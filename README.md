@@ -1,5 +1,5 @@
   <p align="center">
-  <a href="https://github.com/matiascodesal/awesome-usd"><img alt="awesome" src="https://github.com/matiascodesal/awesome-usd/blob/c51c80497c0aee22a4f6172fda22cc8bfd3f8586/images/AwesomeUSD_2by1_sm.png" width="480" /></a>
+  <a href="https://github.com/matiascodesal/awesome-usd"><img alt="awesome openusd" src="https://github.com/matiascodesal/awesome-openusd/blob/main/images/AwesomeOpenUSD_2by1_sm.png?raw=true" width="480" /></a>
 </p>
 <p align="center">
   <a href="https://awesome.re"><img alt="awesome" src="https://awesome.re/badge.svg" /></a>
