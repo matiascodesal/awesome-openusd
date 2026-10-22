@@ -73,6 +73,7 @@ A curated list of awesome Universal Scene Description (OpenUSD) resources and pr
 - [Omniverse Asset Converter](https://docs.omniverse.nvidia.com/extensions/latest/ext_asset-converter.html) – Python API and microservice for converting FBX/glTF/OBJ to USD.
 - [fspy-USD](https://github.com/Vochsel/fspy-USD) – Converts fSpy camera matching file to USD.
 - [Multiverse](https://j-cube.jp/solutions/multiverse/) – non-destructive import/edting of USD for Maya and other DCCs.
+- - [USD Bridge](https://github.com/Aboellief/usd-bridge-maya-to-houdini) – Commercial Maya to Houdini bridge: layered USD export, Arnold shaders or MaterialX for Karma, lights/render settings/AOVs rebuilt as native Houdini nodes.
 - [usdat](https://github.com/dreamworksanimation/dwa_usd_plugins/tree/master/pxr/usd/plugin/usdat) – A FileFormat plugin from DreamWorks Animation that enables working with templating in USD files.
 
 ### Hydra
