@@ -134,6 +134,7 @@ Scene and other assets put together to test USD features and as examples of how 
 - [Confusing Acronym Blog](https://confusing-acronym.com) - A blog about OpenUSD with a lot of technical explanations.
 - [OpenUSD in One Weekend](https://learn-usd.github.io/) - Technical learning content to learn OpenUSD in one weekend and beyond.
 - [Inter-Process Communication In Real-Time 3D Applications](https://a.co/d/0e3Z5Znj) - A hands-on guide to building a real-time LiveLink pipeline — streaming OpenUSD data from Autodesk Maya to a custom viewer using gRPC.
+- [OpenUSD in Three.js: A Houdini Solaris Test of USD Web Viewer](https://digitalgarden.si/blog/openusd-threejs-usd-web-viewer/) – Hands-on test of bringing a Houdini Solaris USD scene into a three.js web viewer, by Alicia.
 
 ### Certification
 - [OpenUSD Development Certification](https://www.nvidia.com/en-us/learn/certification/openusd-development-professional/) - An intermediate-level credential that validates a candidate’s ability to build, maintain, and optimize 3D content creation pipelines using OpenUSD.
