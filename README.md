@@ -55,6 +55,15 @@ A curated list of awesome Universal Scene Description (OpenUSD) resources and pr
 - [usdstubgen](https://github.com/chadrik/usdstubgen) – Generates python stub filles (.pyi) for USD Python API for static type analysis and code completion.
 - [Autodesk USD WebASM](https://forums.autodesk.com/t5/engineering-hub-blog/autodesk-open-sources-web-based-usd-viewing-implementation/ba-p/11071751) – USD running on the browser and a Three.js Hydra render delegate. [Demo](https://autodesk-forks.github.io/USD/) 
 - [USDZ Web Viewer](https://www.usdz-viewer.net/) – View USDZ files in the browser. Builds on Autodesk's related work. [USDZ Loader Github ](https://github.com/ponahoum/three-usdz-loader) [Viewer Github](https://github.com/ponahoum/usdz-web-viewer)
+- [Needle USD Viewer](https://github.com/needle-tools/usd-viewer) – Web viewer for USD, glTF, and related formats built on Autodesk's WASM USD bindings and a three.js Hydra render delegate, with WebGL and WebGPU rendering. [Demo](https://usd-viewer.needle.tools/)
+- [USD Web View](https://github.com/usd-wg/usd-wg-webview) – Serverless browser-based OpenUSD viewer from the ASWF USD Working Group using a WebAssembly build of OpenUSD and three.js, with Gaussian splat and MaterialX support.
+- [Hugging Face USD Web Viewer](https://huggingface.co/docs/huggingface.js/en/usd-web-viewer/README) – npm package that composes USD in WebAssembly (via the native Rust openusd library) and renders with three.js. Reports UsdPhysics data and can pose joints.
+- [USD_WebViewer](https://github.com/Cybernaut0815/USD_WebViewer) – Web viewer and light editor running OpenUSD as WebAssembly with three.js on WebGPU/WebGL2. Embeddable as a web component and can sync with Python, C++, or curl.
+- [typescript-usd](https://github.com/beersandrew/typescript-usd) – An AI-assisted TypeScript port of OpenUSD that includes a browser-based usdview. [Demo](https://andrew.beer/s/usdview/)
+- [OpenUsdEditor](https://openusd-editor.com/) – A lightweight native editor for viewing, navigating, and authoring OpenUSD stages, powered by Hydra 2. Available for Linux, macOS, and Windows.
+- [Unity USD Toolkit](https://github.com/Unity-Technologies/com.unity.usd-toolkit) – Experimental Unity package for reading and writing OpenUSD stages at runtime and in the Editor.
+- [Usd Optimize](https://github.com/NVIDIA-Omniverse/usd-optimize) – NVIDIA library of 45+ operations for optimizing OpenUSD stages, such as mesh cleanup, decimation, and deduplication. C++ and Python.
+- [usd_chunks](https://github.com/HuginStudios/usd_chunks) – Framework for procedural node networks in OpenUSD built from small Python "chunks" stored in .usda files. Runs in usdview, Houdini, Blender, or headless.
 - [UsdSkel Util](https://github.com/meshula/usdskelutil) – Utilities for use with the UsdSkel schema
 - [tinyusdz](https://github.com/lighttransport/tinyusdz) – Tiny, dependency-free USDZ/USDA/USDC library written in C++14
 - [Native Rust USD library](https://github.com/mxpv/openusd) - An implementation of Universal Scene Description written in native Rust.
@@ -110,6 +119,8 @@ Scene and other assets put together to test USD features and as examples of how 
 - [J Cube Sample Assets](https://j-cube.jp/solutions/multiverse/assets/) – USD Esper Room scene and USDZ Maneki asset.
 - [Apple Sample Assets](https://developer.apple.com/augmented-reality/quick-look/) – Quick Look sample USDZ.
 - [McUsd Sample Assets](https://github.com/erich666/McUsd) – Simple geometry with a variety of UsdPreviewSurface materials for material and light testing.
+- [USD Museum](https://github.com/beersandrew/usd-museum) – CC0 OpenUSD scene that demonstrates USD features one exhibit at a time, with reference marks to check whether a viewer or runtime renders each feature correctly.
+- [SimReady Central](https://huggingface.co/spaces/nvidia/simready-central) – SimReady 3D assets with USD and RTX simulation previews.
 
 ## Learning
 
@@ -122,6 +133,7 @@ Scene and other assets put together to test USD features and as examples of how 
 ### Technical Learning
 
 - [Learn OpenUSD](https://docs.nvidia.com/learn-openusd/latest/index.html) – Open source USD developer learning path with lectures and guided exercises. ([Github](https://github.com/NVIDIA-Omniverse/LearnOpenUSD))
+- [Primventure](https://github.com/aivxx/primventure) – A gamified companion to Learn OpenUSD: a local dungeon crawl where you clear rooms by writing real Python against usd-core.
 - [Pixar USD Tutorials](https://openusd.org/release/tut_usd_tutorials.html) – 14 modules with step-by-step instructions showing how to use the Python API and the results in USDA and usdview
 - [ASWF USD-WG Presentations](https://wiki.aswf.io/display/WGUSD/Presentations) – Interesting presentations from the ASWF USD Working Group.
 - [USD Plugin Examples](https://github.com/wetadigital/USDPluginExamples) – Simple examples to demonstrate how to compile and build USD plugins.
