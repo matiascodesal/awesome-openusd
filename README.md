@@ -111,6 +111,7 @@ You can find the latest [products using OpenUSD on openusd.org](https://openusd.
 ### AI & Simulation
 
 - [BowerBot](https://github.com/binary-core-llc/bowerbot) – Open-source AI agent that assembles production-correct OpenUSD scenes from natural language. ASWF-compliant hierarchy, MaterialX materials, lighting, and validation. [Demo](https://youtu.be/dXYdiJi2lXU)
+- [Primvaria](https://github.com/drscaon/primvaria) – Procedural generators of physics-ready OpenUSD assets for robot learning: grains, cloth, cables, fasteners and battery cells, with standard UsdPhysics schemas, per-instance variation recorded as ground truth, and checks in MuJoCo and Blender. Runs on CPU. [Demo](https://primvaria.com/#demo)
 - [Robot Reel](https://github.com/noteflowai/robot-reel) – Exports recorded Newton, Genesis and digital-twin simulations to animated OpenUSD, and reads every time sample back against the source data. [Demo](https://noteflowai.github.io/robot-reel/cloth/)
 
 ### Converters & File Format Plugins
